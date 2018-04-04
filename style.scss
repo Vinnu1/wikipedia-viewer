@@ -1,0 +1,17 @@
+$bg-color: #A95BAA;
+$header-color:#E0BDE0;
+$hover-color:#867886;
+body{
+  background-color: $bg-color;
+}
+h4{
+  font-size:30px;
+  color:$header-color;
+}
+a:hover{
+  text-decoration:none;
+  color:$hover-color;
+}
+a{
+  color:#000;
+}
